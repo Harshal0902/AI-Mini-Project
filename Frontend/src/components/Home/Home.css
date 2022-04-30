@@ -1,0 +1,32 @@
+.Intro {
+    background-color: #37517e;
+    height: 89.5vh;
+}
+
+.Intro h1 {
+    margin: 0 0 10px 0;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #fff;
+    padding-left: 50px;
+    padding-top: 100px;
+}
+
+.Intro p{
+    font-size: 20px;
+    font-weight: 400;
+    width: 50vw;
+    color: #fff;
+    padding-left: 50px;
+    padding-top: 100px;
+}
+
+.img_globe{
+    margin-left: 780px;
+    margin-top: -380px;
+}
+
+.img-fluid {
+    max-height: 600px;
+}

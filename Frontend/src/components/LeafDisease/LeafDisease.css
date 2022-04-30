@@ -1,0 +1,47 @@
+#fileupload{
+    margin: 50px 50px;
+    display: grid;
+    place-items: center;
+}
+
+.center{
+    display: grid;
+    place-items: center;
+}
+
+.Upload__Heading{
+    padding-top: 20px;
+}
+
+.Img__upload{
+    max-width: 250px;
+}
+
+.predict_btn{
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    font-family: "Source Serif Pro", serif;
+    font-weight: bold;
+    text-align: center;
+    line-height: 25px;
+    letter-spacing: 1.2px;
+    color: rgba(255, 255, 255, 0.9);
+    border-radius: 50px;
+    background: linear-gradient(-45deg, #ffa63d, #ff3d77, #338aff, #3cf0c5);
+    background-size: 600%;
+    -webkit-animation: anime 16s linear infinite;
+    animation: anime 16s linear infinite;
+}
+
+@keyframes anime {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
