@@ -1,0 +1,10 @@
+.Result{
+    display: grid;
+    place-items: center;
+}
+.Upload_image{
+    width: 250px;
+}
+.treatment{
+    padding-bottom: 20px;
+}
